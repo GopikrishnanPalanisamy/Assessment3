@@ -14,7 +14,7 @@ public class TC001_AskQuestion extends ProjectSpecificMethods{
 	public void setValues() {
 		testcaseName = "Ask Question";
 		testDescription ="Create a question from salesforce";
-		authors="Pradeep";
+		authors="Gopi";
 		category ="Smoke";
 		excelFileName="SalesTest";
 	}
